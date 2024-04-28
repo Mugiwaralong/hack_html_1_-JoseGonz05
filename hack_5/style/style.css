@@ -1,0 +1,332 @@
+body{
+
+    font-family: "Arimo", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-weight: bold;
+    }
+
+
+.home{
+    display: flex;
+    text-align:center;
+    width:100%;
+    font-size: 50px;
+    margin-bottom: 20px;
+
+
+
+}
+
+.titulo1{
+
+    width:100%;
+    text-align: center;
+    letter-spacing:2px;
+    font-size: 20px;
+
+
+
+
+
+}
+
+.titulo2{
+
+    width:100%;
+    text-align: center;
+    align-content: end;
+    letter-spacing:2px;
+    font-size: 9px;
+
+
+
+
+}
+
+.portada{
+
+
+
+    width: 100%;
+    height: 400px;
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-image: url("https://github.com/SocialOplesk/hack_html_1/blob/main/hack_5/img/2.png?raw=true");
+    background-position: center center;
+    z-index: -1;
+}
+
+.contentTitulo{
+
+    padding-top: 100px;
+}
+
+.titulo3{
+    color: #EEEEEE;
+    background-color: #00BF63;
+    margin: 2px;
+    padding-left: 25px;
+    width: 120px;
+
+}
+
+.titulo4{
+    color: #EEEEEE;
+    background-color: #00BF63;
+    margin: 2px;
+    padding-left: 15px;
+    margin-left: 10PX;
+    width: 215px;
+
+}
+
+.titulo5{
+    color: #EEEEEE;
+    background-color: #00BF63;
+    margin: 2px;
+    padding-left: 15px;
+    margin-bottom: 25PX;
+    margin-left: 10PX;
+    width: 215px;
+}
+
+.titulo6{
+    color: #EEEEEE;
+    background-color: black;
+    margin: 2px;
+    padding-left: 25px;
+    font-size: 10PX;
+    width: 200px;
+
+}
+
+.titulo7{
+    color: #EEEEEE;
+    background-color: black;
+    margin: 2px;
+    padding-left: 16px;
+    font-size: 10PX;
+    margin-left: 10PX;
+    width: 160px;
+
+}
+
+
+
+
+
+
+
+.content{
+    display: -webkit-flex;
+    display: flex;
+    -webkit-flex-flow: row wrap;
+    flex-flow: row wrap;
+    width: 100%;
+    height: 20%;
+    justify-content: center;
+    margin-top: 50PX;
+
+
+
+
+
+}
+
+.content1{
+
+ text-align: left;
+ font-size: 25px;
+
+ padding: 5px;
+ width: 625px;
+ height: 60px;
+ margin-top: 0px;
+
+
+
+
+
+
+
+}
+.content2{
+    text-align: left;
+    font-size: 14px;
+    padding-top: 5PX;
+
+    width: 625px;
+    height: 20px;
+
+
+
+}
+
+
+
+.galeria {
+
+
+
+    display: -webkit-flex;
+    display: flex;
+    -webkit-flex-flow: row wrap;
+    flex-flow: row wrap;
+    width: 100%;
+    height: 20%;
+    justify-content: center;
+
+
+
+}
+
+.tituloImg{
+
+
+
+ display: -webkit-flex;
+ display: flex;
+ -webkit-flex-flow: row wrap;
+ flex-flow: row wrap;
+ width: 100%;
+ height: 20%;
+ justify-content: center;
+
+}
+
+.img1{
+
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+
+
+}
+.img2{
+
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+
+
+
+
+}
+
+.img3{
+
+
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+
+
+
+
+
+
+
+
+}
+
+
+
+.galeria div{
+
+    text-align: left;
+    font-size: 10px;
+
+    padding: 5px;
+
+
+
+
+}
+
+
+.tituloImg div{
+
+    text-align: left;
+    font-size: 15px;
+
+    padding: 5px;
+    width: 200px;
+    height: 100px;
+
+
+}
+
+.tituloImg div div{
+    font-size: 10px;
+
+}
+
+
+
+
+
+
+.footer{
+
+
+    display: -webkit-flex;
+    display: flex;
+    -webkit-flex-flow: row wrap;
+    flex-flow: row wrap;
+    width: 100%;
+    height: 50%;
+    justify-content: center;
+    background-color: #00BF63;
+    padding: 10px;
+
+
+
+
+}
+
+
+.articulo9
+{
+    flex-basis: 35%;
+    width:100%;
+
+    color:#EEEEEE;
+    text-align: center;
+    margin-top: 0ch;
+    letter-spacing:5px;
+    font-size: 8px;
+
+
+}
+.articulo10
+{
+
+    width:100%;
+
+    color:#EEEEEE;
+    text-align: center;
+    margin-top: 0px;
+    letter-spacing:5px;
+    font-size: 8px;
+    flex-basis: 35%;
+
+
+
+}
+
+.articulo11
+{
+
+    width:100%;
+
+    color:#EEEEEE;;
+    text-align: center;
+    margin-top: 0px;
+    letter-spacing:5px;
+    font-size: 8px;
+    flex-basis: 30%;
+
+
+}
+

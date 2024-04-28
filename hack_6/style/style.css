@@ -1,0 +1,322 @@
+body{
+
+    font-family: "Arimo", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+
+    }
+
+
+
+
+
+
+.portada{
+
+    width: 100%;
+    height: 400px;
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-image: url("https://github.com/SocialOplesk/hack_html_1/blob/main/hack_6/img/2.png?raw=true");
+    background-position: center center;
+    z-index: -1;
+
+}
+
+.contentTitulo{
+
+    padding-top: 100px;
+
+    width: 100%;
+
+
+
+}
+
+.circulo{
+    display: -webkit-flex;
+    display: flex;
+    -webkit-flex-flow: row wrap;
+    flex-flow: row wrap;
+    width: 80%;
+    height: 20%;
+    justify-content: end;
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+.titulo2{
+
+    color: #EEEEEE;
+    background-color: #00BF63;
+    width: 150px;
+    height: 150px;
+    border-radius:50%;
+
+    text-align: center;
+    align-content: center;
+    position: absolute;
+
+    font-size: 30px;
+
+
+
+
+
+
+}
+
+
+.titulo3{
+    color:#EEEEEE;
+    background-color: black;
+    border-radius:15px;
+    font-size: 8px;
+    margin: 2px;
+    text-align: center;
+    align-content: center;
+
+    padding-left: 1px;
+    margin-left: 65px;
+    width: 60px;
+    margin-bottom: 15px;
+    height: 15px;
+
+
+
+}
+
+.titulo4{
+    color: black;
+    margin: 2px;
+    padding-left: 15px;
+    margin-left: 50px;
+    width: 215px;
+    font-weight: bold;
+    font-size: 20px;
+
+}
+
+.titulo5{
+    color:black;
+    font-size: 20px;
+    margin: 2px;
+    padding-left: 15px;
+
+    margin-left: 50px;
+    width: 215px;
+    font-weight: bold;
+}
+
+.titulo6{
+    color: black;
+    font-size: 20px;
+    padding-left: 13px;
+    width: 160px;
+    margin-bottom: 10PX;
+    font-weight: bold;
+    margin-left: 50px;
+
+}
+
+.titulo7{
+    color:black;
+
+
+    margin: 2px;
+    padding-left: 16px;
+    font-size: 10PX;
+    margin-left: 50px;
+    width: 200px;
+    text-align: justify;
+
+}
+
+
+
+
+.galeria {
+
+
+
+    display: -webkit-flex;
+    display: flex;
+    -webkit-flex-flow: row wrap;
+    flex-flow: row wrap;
+    width: 100%;
+    height: 20%;
+    justify-content: center;
+    margin-top: 25px;
+
+
+
+}
+
+.tituloImg{
+
+
+
+ display: -webkit-flex;
+ display: flex;
+ -webkit-flex-flow: row wrap;
+ flex-flow: row wrap;
+ width: 100%;
+ height: 20%;
+ justify-content: center;
+
+}
+
+.img1{
+
+    width: 210px;
+    height: 300px;
+    object-fit: cover;
+
+
+}
+.img2{
+
+    width: 210px;
+    height: 300px;
+    object-fit: cover;
+
+
+
+
+}
+
+.img3{
+
+
+    width: 210px;
+    height: 300px;
+    object-fit: cover;
+
+
+
+
+
+
+
+
+}
+
+
+
+.galeria div{
+
+    text-align: left;
+    font-size: 10px;
+
+    padding: 5px;
+
+
+
+
+}
+
+
+.tituloImg div{
+
+    text-align: left;
+    font-size: 15px;
+
+    padding: 5px;
+    width: 200px;
+    height: 100px;
+
+
+}
+
+.tituloImg div div{
+    font-size: 10px;
+
+}
+
+
+
+
+
+
+.footer{
+
+
+    display: -webkit-flex;
+    display: flex;
+    -webkit-flex-flow: row wrap;
+    flex-flow: row wrap;
+    width: 100%;
+    height: 80px;
+
+    background-color:black;
+    padding: 10px;
+
+
+
+
+}
+
+
+.articulo9
+{
+
+    /* width:8%;
+    color:#EEEEEE;
+    background-color: #00BF63;
+    height: 20PX;
+    text-align: center;
+    margin-top: 35px;
+    font-size: 12px;
+    border: solid RED 1PX;
+    margin-left: 250PX;
+    align-content: center;
+    border-radius:15px; */
+
+    color: #EEEEEE;
+    background-color: #00BF63;
+    width: 80px;
+    height: 20px;
+    border-radius:15px;
+    text-align: center;
+    align-content: center;
+    position: relative;
+    margin-top: 35px;
+    left: 100px;
+
+
+
+    font-size: 10px;
+
+
+
+
+}
+
+.tachado{
+
+    display: inline;
+    text-decoration: line-through #f00 2px;
+
+}
+
+.inline{
+
+    display: inline;
+}

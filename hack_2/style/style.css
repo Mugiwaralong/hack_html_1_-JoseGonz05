@@ -1,0 +1,43 @@
+
+:root {
+    --bg-blue:#93B5C9;
+    --bg-wine:#AB2849;
+    }
+
+
+.home{
+    background-color:#93B5C9;
+    width:100%;
+    height:100px;
+}
+
+.menu{
+
+    background-color:#AB2849;
+    width:100%;
+    height:150px;
+
+
+}
+
+.articulo{
+
+    background-color:#AB2849;
+    width:80%;
+    height:100px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    float:left;
+
+
+}
+
+.footer{
+
+    background-color:#AB2849;
+    width:90%;
+    height:100px;
+    margin-left: 100px;
+    float:left;
+
+}
